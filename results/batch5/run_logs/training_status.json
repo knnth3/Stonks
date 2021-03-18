@@ -1,0 +1,23 @@
+{
+    "Trader": {
+        "checkpoints": [
+            {
+                "steps": 324157,
+                "file_path": "results\\batch5\\Trader\\Trader-324157.onnx",
+                "reward": null,
+                "creation_time": 1616020313.65671
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 324157,
+            "file_path": "results\\batch5\\Trader.onnx",
+            "reward": null,
+            "creation_time": 1616020313.65671
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.24.1",
+        "torch_version": "1.7.0+cu110"
+    }
+}
