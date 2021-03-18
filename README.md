@@ -2,7 +2,8 @@
 Python 3.7.9  
 pytorch 1.7.1  
 com.mlagents 1.9.0  
-mlagents 0.25.0
+mlagents 0.25.0  
+<mark>Unity 2020.2.2f1 (or equivalent)</mark>
 
 # Instalation Steps:
 * Install python
